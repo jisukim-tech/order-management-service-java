@@ -1,1 +1,1 @@
-# order-management-service-java
+# order-management-service-spring
