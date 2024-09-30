@@ -13,6 +13,10 @@ public class Order {
         this.discountAmount = discountAmount;
     }
 
+    public int getDiscountAmount() {
+        return discountAmount;
+    }
+
     @Override
     public String toString() {
         return "Order{" +
